@@ -1,4 +1,4 @@
-# Istruzioni per installare il progetto
+# Instructions for installing the project
 
 - Clone the project using the comand "git clone https://github.com/lerajla/independent_countries_population.git"
 
